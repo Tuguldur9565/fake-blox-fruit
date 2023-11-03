@@ -1,0 +1,113 @@
+
+.header {
+    border-bottom: 1px solid #e1e1e1;
+    padding: 15px 0;
+}
+.logo img {
+    width: 200px;
+}
+.eye{
+    float: right;
+    margin-top: 20px;
+    color:#FFF;
+}
+.eye ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    color:#FFF;
+}
+.eye li {
+    display: inline-block;
+    margin: 0 15px;
+    color:#FFF;
+}
+.eye li a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px 0;
+    font-size: 14px;
+    font-weight: 400;
+    color: #333;
+    text-transform: uppercase;
+    transition: all 0.3s ease-out;
+    color:#FFF;
+}
+.eye li a:hover {
+    border-bottom: 2px solid #965830;
+    color:#FFF;
+}
+.eye li.active a {
+    border-bottom: 2px solid #965830;
+	background-color:black;
+    color:#FFF;
+}
+a1{
+	background-color:black;
+	border-bottom:2px solid #e1e1e1;
+}
+img{
+    margin: 0 10px 10px;
+}
+/* Reset some default browser styles */
+body, h1, p {
+    margin: 0;
+    padding: 0;
+}
+
+.search-container {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.search-input {
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px 0 0 4px;
+}
+
+.search-button {
+    padding: 8px 16px;
+    font-size: 16px;
+    background-color: #336699;
+    color: white;
+    border: none;
+    border-radius: 0 4px 4px 0;
+    cursor: pointer;
+}
+
+/* Styling when hovering over the button */
+.search-button:hover {
+    background-color: #235577;
+}
+body {
+    background-color: black;
+}
+h3{
+    color:white;
+}
+h1{
+    color:white;
+}
+p{
+    color:white;
+}
+h4{
+    color:white;
+}
+h2{
+    color:black;
+}
+.angel{
+    float:right;
+}
+.hea img {
+    display: inline-block;
+}
+.col-md-3 {
+    display: inline-block;
+}
+hea {
+    display: inline-block ;
+}
